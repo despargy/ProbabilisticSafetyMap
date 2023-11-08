@@ -2,10 +2,11 @@
 # RiskTerrainModeling
 ## using Vision-based and Machine Learning techniques.
 <p align="center">
-The purpose of the current project is to design a function that maps the depth
-information from a RGB-D camera to a risk heatmap of the camera scene and then, trains a Neural
-Network to learn the mapping designed function to the risk heatmap given the camera data
-(case a. input:Depth, case b. input:RGB), in order to perform in real-time since the analytical
-computation of the function is time-consuming.
+This work aims to enhance real-time performance in generating a risk map from an image. The objective is to achieve real-time processing, as the analytical computation of the function is time-consuming. Essentially, the goal is to extract a map representation and transform it into a risk map that indicates the probability of each foothold being safe to step on.
+
+Initially, we design a function using analytical computer vision techniques to convert a depth image obtained from an RGB-D image into a risk map based on specific constraints. Subsequently, we generate various random scenes using Unreal Engine to create a dataset that includes objects of interest.
+
+Furthermore, we design a training model to learn the mapping between the depth image and the risk map. Additionally, we explore the possibility of training another model to learn the mapping between an RGB image and the risk map.
+
 Winter semester 2022-2023, Computer Science Department, University of Crete.
 </p>
