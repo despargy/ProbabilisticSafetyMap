@@ -1,5 +1,5 @@
 
-# RiskTerrainModeling
+# Probabilistic Safety Map
 ## Vision-based and Machine Learning techniques.
 <p align="center">
 
@@ -13,7 +13,7 @@
   <a href="https://github.com/despargy/RiskTerrainModeling">
     <img src="figs/under-construction.png" alt="Under" width="358" height="235">
   </a>
-  <h2 align="center">Probabilistic Safety Map</h2> 
+  <h2 align="center">Probabilistic Safety Map for Secure Footholds</h2> 
 
 </div>
 
