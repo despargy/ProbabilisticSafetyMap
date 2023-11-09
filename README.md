@@ -10,7 +10,7 @@
   <h1 align="center"></h1>
 
   
-  <a href="https://github.com/despargy/RiskTerrainModeling">
+  <a href="https://github.com/despargy/ProbabilisticSafetyMap">
     <img src="figs/under-construction.png" alt="Under" width="358" height="235">
   </a>
   <h2 align="center">Probabilistic Safety Map for Secure Footholds</h2> 
